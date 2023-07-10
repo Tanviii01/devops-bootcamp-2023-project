@@ -83,7 +83,7 @@ pipeline {
     GITHUB_REPO_URL = "https://github.com/${GITHUB_ACCOUNT}/devops-bootcamp-test.git"
 
     // IMAGE_TAG="tsadok-${BUILD_NUMBER}"
-    IMAGE_TAG = "tanviii01"
+    IMAGE_TAG = "Tanviii01"
   }
   stages {
     // git branch: 'main', changelog: false, poll: false, url: 'https://mohdsabir-cloudside@bitbucket.org/mohdsabir-cloudside/java-app.git'
